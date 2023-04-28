@@ -13,5 +13,5 @@
 ### [实现逻辑回归基本算法](https://github.com/SmallVagetable/machine_learning_python/tree/master/logistic_regression)
 
 # 补充
-### [补充部分注释](https://github.com/Wanncye/MachineLearning)
-### [补充MLE距离](https://github.com/stxupengyu/maximum-likelihood-estimation)
+### [补充部分算法注释](https://github.com/Wanncye/MachineLearning)
+### [补充MLE例子](https://github.com/stxupengyu/maximum-likelihood-estimation)
