@@ -11,3 +11,7 @@
 ### [实现adaboost基本算法](https://github.com/SmallVagetable/machine_learning_python/tree/master/adaboost)
 ### [实现svm基本算法](https://github.com/SmallVagetable/machine_learning_python/tree/master/support_vector_machine)
 ### [实现逻辑回归基本算法](https://github.com/SmallVagetable/machine_learning_python/tree/master/logistic_regression)
+
+# 补充
+### [补充部分注释](https://github.com/Wanncye/MachineLearning)
+### [补充MLE距离](https://github.com/stxupengyu/maximum-likelihood-estimation)
